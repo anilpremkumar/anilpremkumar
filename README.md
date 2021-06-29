@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anilpremkumar
 - 👀 I’m interested in Machine Learning and Statistics
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on python libraries on ML/DL.
+- 💞️ I’m looking to collaborate on python libraries on ML/DL
 
 <!---
 anilpremkumar/anilpremkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

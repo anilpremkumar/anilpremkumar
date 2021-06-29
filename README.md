@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anilpremkumar
-- 👀 I’m interested in Machine Learning and Statistics
+- 👀 I’m interested in Statistics and Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on python libraries on ML/DL
 
